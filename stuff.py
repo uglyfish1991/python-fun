@@ -1,0 +1,8 @@
+num_1 = int(input("Type  here   "))
+num_2 = int(input("Type  here   "))
+print("multiply is",num_1*num_2)
+print("addition is",num_1+num_2)
+print("subraction is",num_1-num_2)
+print("dividing is",num_1/num_2)
+print("dividing is",num_1**num_2)
+print("dividing is",num_1%num_2)
